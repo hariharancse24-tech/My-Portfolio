@@ -55,8 +55,7 @@ A web application that fetches and displays real-time data from external APIs an
 ## Live Demo
 
 The website is hosted using GitHub Pages:
-
-https://yourusername.github.io/portfolio-website/
+https://hariharancse24-tech.github.io/My-Portfolio/
 
 
 ## Folder Structure
