@@ -74,8 +74,3 @@ portfolio/
 ## Author
 
 **HARIHARAN M**
-
-
-## License
-
-This project is created for educational and portfolio purposes.
