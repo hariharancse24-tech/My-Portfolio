@@ -62,9 +62,13 @@ https://hariharancse24-tech.github.io/My-Portfolio/
 ## Folder Structure
 
 portfolio/
+
 │
+
 ├── index.html
+
 ├── style.css
+
 └── README.md
 
 ## Author
